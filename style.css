@@ -1,0 +1,144 @@
+html{
+    scroll-behavior: smooth;
+    
+    }
+    
+    *{
+    
+    background-color: white;
+    
+    
+    }
+    
+    body{
+    font-size: 26px;
+    color: black;
+    margin: 0 auto;
+    width: 75%;
+    border: 2px dotted white;
+    padding: 10px;
+    }
+    
+    h1{
+    text-align: center;
+    }
+    
+    
+    h2{
+    text-align: center;
+    
+    }
+    
+    h3{
+       background: lightskyblue;
+       padding: 20px 40px;
+       border: 5px solid darkblue;
+       margin: auto;
+       width: 40%;
+       text-align: center;
+    
+    }
+    
+    a{
+    color: green;
+    text-decoration: none;
+    
+    }
+    
+    p{
+    font-weight: 700;
+    font-family: Verdana, sans-serif;
+    /*font-style: normal;*/
+    /*font-display: swap;*/
+    /*line-height: 40px;*/
+    /*text-align: right;*/
+    /*word-spacing: 50px;*/
+    /*text-decoration: underline double red;*/
+    /*text-transform: capitalize;*/
+    
+    }
+    
+    ul,ol{
+    
+    margin-left: 30%;
+    }
+    
+    
+    #perfil{
+       text-align: center;
+    }
+    
+    .menu{
+      text-align: center;
+      background: lightblue;
+      padding: 15px;
+    
+    }
+    
+    .menu a{
+      background: rgb(255, 0, 0);
+      padding: 5px 15px;
+      border-radius: 5px;
+    
+    }
+    .menu a:hover{
+      background: orangered;
+      color: white;
+      text-decoration: underline;
+      transition: all 400ms;
+    
+    }
+    
+    .resaltado{
+     background: yellow;
+    
+    }
+    
+    .resaltado:hover{
+    font-weight: bold;
+    padding: 0.5rem;
+    
+    
+    }
+    
+    .Listas ol{
+    margin-left: 30px;
+    
+    }
+    
+    .Listas li{
+    
+    margin-bottom: 20px;
+    
+    }
+    
+    .nombre:hover{
+       text-decoration: underline;
+       transition: 400ms;
+    
+    
+    }
+    
+    .tabla {
+    margin: auto;
+    
+    }
+    .tabla td,
+    .tabla th{
+    border: 2px solid;
+    
+    }
+    
+    .form{
+    margin: auto;
+    width: 40%;
+    text-align: center;
+    }
+    
+    input, textarea, button{
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    
+    
+    }
